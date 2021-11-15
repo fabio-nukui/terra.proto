@@ -3,3 +3,6 @@ node_modules
 # IDEs
 .vscode/
 .idea/
+
+# Builds
+dist
